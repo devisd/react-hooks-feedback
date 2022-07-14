@@ -1,0 +1,17 @@
+.button__list {
+  display: flex;
+  align-items: center;
+}
+
+.button__item {
+  margin-right: 10px;
+}
+
+button {
+  border-radius: 10px;
+  background-color: #fff;
+  border-color: grey;
+  padding: 0px 10px;
+  font-size: 40px;
+  font-weight: 600;
+}

@@ -1,0 +1,14 @@
+.statistics__list {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.statistics__item {
+  margin-bottom: 10px;
+}
+
+.statistics__text {
+  font-size: 40px;
+  font-weight: 500;
+}
