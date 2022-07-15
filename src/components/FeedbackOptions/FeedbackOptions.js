@@ -1,4 +1,3 @@
-import React from 'react';
 import css from './FeedbackOptions.module.css';
 
 const FeedbackOptions = ({ good, neutral, bad, onLeaveFeedback }) => {
